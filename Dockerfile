@@ -1,2 +1,2 @@
 # Base image
-FROM daprio/dapr:0.10.0
+FROM daprio/dapr:1.8.0
